@@ -16,6 +16,7 @@ Mamba (executable)
 ******************
 ``mamba``, previously a Python executable mixing ``libmambapy``, ``conda``, and code to bridge both
 project is being replace by a fully C++ executable based on ``libmamba`` solely.
+Testing building in PRs works.
 
 It now presents the same user interface and experience as ``micromamba``.
 
